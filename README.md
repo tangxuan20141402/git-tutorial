@@ -7,3 +7,5 @@ readme
 Git diff
 
 - feature-A
+
+- fix-B
